@@ -1,7 +1,12 @@
-# Vue 3 + Vite
+# Vue-Good-Table Kullanımı
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Bu projede vue-good-table-next framework kullanılmıştır. Tabloya API'dan Axios ile veri getirilmiştir.
 
-## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Vue-Good-Table 
+
+https://github.com/borisflesch/vue-good-table-next linkinden gerkeli dokümantasyona ulaşabilirsiniz.
+
+## API Bağlantısı
+
+http://www.omdbapi.com/?apikey=c5b429de&type=movie&s=comedy kullanılan API'a buradan ulaşabilirsiniz.
